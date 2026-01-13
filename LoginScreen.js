@@ -9,7 +9,7 @@ export default function LoginScreen() {
   const validarUsuario = async () => {
     setLoading(true);
     try {
-      const response = await fetch('https://TU-VERCEL-APP.vercel.app/api/validarUsuario', {
+      const response = await fetch('https://cj-local-aprobaciones.vercel.app/api/validarUsuario', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
