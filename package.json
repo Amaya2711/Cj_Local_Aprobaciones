@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "body-parser": "^2.2.2",
-    "expo": "^54.0.31",
+    "expo": "^54.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.4",
     "express": "^5.2.1",
     "mssql": "^12.2.0"
   }
