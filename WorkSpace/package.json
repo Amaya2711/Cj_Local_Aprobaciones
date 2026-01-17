@@ -1,0 +1,12 @@
+{
+  "name": "cj_validaciones_celular_workspace",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "client"
+  ],
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "typescript": "~5.9.2"
+  }
+}

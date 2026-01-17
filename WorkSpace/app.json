@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Cj_Validaciones_Celular",
+    "slug": "cj-validaciones-celular",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./client/public/favicon.ico",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./client/public/logo192.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./client/public/logo192.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./client/public/favicon.ico"
+    }
+  }
+}
